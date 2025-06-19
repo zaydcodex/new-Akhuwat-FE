@@ -29,16 +29,16 @@ const Sidebar = () => {
             <Link to="/about-us" className="text-primary">About Us</Link>
           </li>
           <li className="mb-2">
-            <Link to="/akhuwat-bussiness-loan" className="text-primary">Asan Qarz Business Loan</Link>
+            <Link to="/akhuwat-bussiness-loan" className="text-primary">Akhuwat Business Loan</Link>
           </li>
           <li className="mb-2">
-            <Link to="/akhuwat-house-loan" className="text-primary">Asan Qarz House Loan</Link>
+            <Link to="/akhuwat-house-loan" className="text-primary">Akhuwat House Loan</Link>
           </li>
           <li className="mb-2">
-            <Link to="/akhuwat-loan-services" className="text-primary">Asan Qarz Loan Services</Link>
+            <Link to="/akhuwat-loan-services" className="text-primary">Akhuwat Loan Services</Link>
           </li>
           <li className="mb-2">
-            <Link to="/apply-for-a-loan" className="text-primary">Apply for a Loan – Asan Qarz Loan</Link>
+            <Link to="/apply-for-a-loan" className="text-primary">Apply for a Loan – Akhuwat Loan</Link>
           </li>
           <li className="mb-2">
             <Link to="/contact-us" className="text-primary">Contact Us – Swift Loans</Link>
@@ -53,10 +53,10 @@ const Sidebar = () => {
             <Link to="/privacy-policy" className="text-primary">Privacy Policy</Link>
           </li>
           <li className="mb-2">
-            <Link to="/success-story" className="text-primary">Success Story: Empowering Lives through Asan Qarz Loan</Link>
+            <Link to="/success-story" className="text-primary">Success Story: Empowering Lives through Akhuwat Loan</Link>
           </li>
           <li className="mb-2">
-            <Link to="/terms-and-conditions" className="text-primary">Terms and Conditions – Asan Qarz Loan</Link>
+            <Link to="/terms-and-conditions" className="text-primary">Terms and Conditions – Akhuwat Loan</Link>
           </li>
         
         </ul>
