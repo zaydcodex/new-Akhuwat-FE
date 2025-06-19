@@ -31,8 +31,8 @@ const AppState = (props) => {
   const subject = "Subject: Loan Request Successfully Sent";
   const text = `
 <div style='background-color:#ffffff;padding:30px; text-align:center;'>
-  <img src='https://asaan-qarz.web.app/static/media/Logo.669f267b4b0e41e9c93b.png' style='max-width:200px; display:block; margin:0 auto;' />
-  <h1 style='color:#46acdf;text-align:center;'>${userData.firstName}, Thanks For requesting a loan request</h1>
+  <img src='https://akhuwat.org.pk/static/media/frame-logo.df7e128da81e78ac4924.png' style='max-width:200px; display:block; margin:0 auto;' />
+  <h1 style='color:#108515;text-align:center;'>${userData.firstName}, Thanks For requesting a loan request</h1>
   <h3 style='padding:5px;color:black'>Our team will shortly get back to you</h3>
 </div>
 `;

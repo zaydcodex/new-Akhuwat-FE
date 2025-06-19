@@ -49,7 +49,7 @@ const color = "#108515"
           left: 0,
           right: 0,
           bottom: 0,
-          backgroundColor: 'rgb(1 149 255 / 25%)',
+          backgroundColor: 'rgba(89, 181, 93, 0.25)',
           zIndex: 1,
         }}
       />
