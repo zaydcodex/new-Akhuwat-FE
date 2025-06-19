@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
   <nav className="py-2 navbar  w-90 p-3 navbar-expand-lg sticky-top "style={{ height: '80px', backgroundColor:'#f7f8f9'}}>
   <div className= " container-fluid d-flex justify-content-between " style={{ width: '80%' }}>
-    <Link className="navbar-brand me-3" to="/"><img className='' style={{ width: '60px' }} src={logo} alt="" /></Link>
+    <Link className="navbar-brand me-3" to="/"><img className='' style={{ width: '60px' }} src="https://akhuwat.org.pk/static/media/frame-logo.df7e128da81e78ac4924.png" alt="" /></Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
