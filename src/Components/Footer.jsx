@@ -11,16 +11,7 @@ const Footer = () => {
               <u>Asaan Qarz Foundation</u>
             </h3>
             <p>
-              The Asaan Qarz Foundation, established in 2001 
-              by Dr. Amjad Saqib, is the world's largest 
-              interest-free microfinance institution, 
-              dedicated to alleviating poverty and 
-              empowering communities in Pakistan. Our 
-              journey began with a modest loan of Rs. 
-              10,000 to a widow, and since then, we have 
-              transformed the lives of millions through our 
-              commitment to providing interest-free loans 
-              and comprehensive support services.
+              Dr. Amjad Saqib started the Akhuwat Foundation in 2001. It is the largest interest-free microfinance institution in the world and works to reduce poverty and give people in Pakistan more power. We started out by giving a widow a small loan of Rs. 10,000. Since then, our promise to offer interest-free loans and full support services has changed the lives of millions of people.
             </p>
           </div>
 
@@ -54,11 +45,7 @@ const Footer = () => {
               <u>Newsletter</u>
             </h3>
             <p>
-              Join us this month as we explore the latest 
-              trends in health, technology, and lifestyle. 
-              Discover valuable tips to enhance your well-
-              being and make informed choices for a 
-              smarter, more fulfilling life!
+              Come with us this month as we look at the newest trends in technology, health, and way of life. Learn useful things that will improve your health and help you make smarter, more satisfying decisions in your life!
             </p>
             <div className="input-group mt-3">
               <input 
