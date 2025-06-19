@@ -152,8 +152,8 @@ const TermsAndConditions = () => {
               </p>
               <p>
                 Email:{" "}
-                <a href="mailto:support@Asaan Qarzloanschemepk.com">
-                  support@Asaan Qarzloanschemepk.com
+                <a href="mailto:support@Akhuwatloanschemepk.com">
+                  support@Akhuwatloanschemepk.com
                 </a>
               </p>
               <p>Phone: +92 340 1003463</p>
@@ -164,7 +164,7 @@ const TermsAndConditions = () => {
 
               <p className="mt-4 text-muted">Last Updated: October 2024</p>
               <p className="mt-4 ">
-                We're glad you picked Asaan Qarz Loan. We are committed to
+                We're glad you picked Akhuwat Loan. We are committed to
                 providing you with clear and reliable banking services.
               </p>
             </article>

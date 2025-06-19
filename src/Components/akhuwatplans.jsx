@@ -4,7 +4,7 @@ const AkhuwatPlans = () => {
     const color = "#108515"
     return (
         <div className='container' >
-            <h1 className='text-center py-5'><b>Asaan Qarz Loan Plans</b></h1>
+            <h1 className='text-center py-5'><b>Akhuwat Loan Plans</b></h1>
             <div className="row">
                 <div className="row">
                     {[

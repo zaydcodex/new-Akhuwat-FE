@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "./Sidebar";
 import Infographic from '../Images/Infograph.png'
-// import aboutUsImg from '../Images/Asaan Qarz loan service.jpg'
+// import aboutUsImg from '../Images/Akhuwat loan service.jpg'
 import asaanQarz15 from '../Images/asan qarz15.jpg'
 import asaanQarz16 from '../Images/asan qarz16.jpg'
 import asaanQarz17 from '../Images/asan qarz17.jpg'
@@ -41,7 +41,7 @@ const AboutUs = () => {
               <div className="my-5 text-center p-4">
                 <img 
                   src={Akhuwat19}
-                  alt="Asaan Qarz Loan Logo" 
+                  alt="Akhuwat Loan Logo" 
                   className="img-fluid rounded shadow-sm mw-100 h-100 card-img-top" 
                 />
               </div>
@@ -80,7 +80,7 @@ We at Akhuwat Loan have a simple but powerful goal: to help people who need mone
               <div className="my-5 text-center">
                 <img 
                   src={Akhuwat20}
-                  alt="Asaan Qarz Core Values" 
+                  alt="Akhuwat Core Values" 
                   className="img-fluid rounded shadow-sm" 
                 />
               </div>
@@ -128,7 +128,7 @@ We at Akhuwat Loan have a simple but powerful goal: to help people who need mone
               <div className="my-5 text-center">
                 <img 
                   src={Akhuwat21}
-                  alt="Asaan Qarz Loan Values Diagram" 
+                  alt="Akhuwat Loan Values Diagram" 
                   className="img-fluid rounded shadow-sm card-img-top" 
                 />
               </div>

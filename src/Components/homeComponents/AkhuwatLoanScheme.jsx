@@ -23,7 +23,7 @@ const AkhuwatLoanScheme = ()=>{
           <div className="col-lg-7 mt-5">
             <img 
               src={akhuwat9}
-              alt="Asaan Qarz Loan Scheme Details in Urdu" 
+              alt="Akhuwat Loan Scheme Details in Urdu" 
               className="card-img-top "
               // style={{height:"500px"}}
             />

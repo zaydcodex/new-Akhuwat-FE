@@ -189,7 +189,7 @@ const PrivacyPolicy = () => {
 
               <ul className="fw-light mx-5">
                 <li>
-                  Send an email to support@Asaan Qarzloanschemepk.com.
+                  Send an email to support@Akhuwatloanschemepk.com.
                 </li>
                 <li>
                 Call +92 0346 0760718

@@ -37,7 +37,7 @@ const SuccessStory = () => {
               <div className="my-5 text-center">
                 <img 
                   src={akhuwat10}
-                  alt="Asaan Qarz Loan Logo" 
+                  alt="Akhuwat Loan Logo" 
                   className="img-fluid rounded shadow-sm" 
                 />
               </div>
@@ -69,7 +69,7 @@ const SuccessStory = () => {
               <div className="my-5 text-center">
                 <img 
                   src={akhuwat11}
-                  alt="Asaan Qarz Core Values" 
+                  alt="Akhuwat Core Values" 
                   className="img-fluid rounded shadow-sm" 
                 />
               </div>
@@ -107,7 +107,7 @@ const SuccessStory = () => {
               </p>
               
               {/* <p className="mb-4">
-              Ali was able to handle his position without getting deeper in debt because the terms of his loans were flexible. He is now financially comfortable and in good health, and he is thankful that Asaan Qarz helped him through one of the hardest times in his life.
+              Ali was able to handle his position without getting deeper in debt because the terms of his loans were flexible. He is now financially comfortable and in good health, and he is thankful that Akhuwat helped him through one of the hardest times in his life.
               </p> */}
     
               <h2 className="fw-bold mt-5 mb-4">5. Getting people to buy their own homes—Farhan's Story</h2>
@@ -132,7 +132,7 @@ const SuccessStory = () => {
               <div className="my-5 text-center">
                 <img 
                   src={akhuwat12}
-                  alt="Asaan Qarz Loan Values Diagram" 
+                  alt="Akhuwat Loan Values Diagram" 
                   className="img-fluid rounded shadow-sm" 
                 />
               </div>

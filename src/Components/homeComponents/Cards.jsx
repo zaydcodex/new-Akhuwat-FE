@@ -6,8 +6,8 @@ const Cards = () => {
 
     <div className='' style={{ backgroundColor: '#f7f8f9' }}>
       <div className='container text-center' >
-      {/* <p className='w-70% text-center'>Asaan Qarz LOAN</p> */}
-      <p className='w-70% text-center' style={{paddingTop:'26px'}}>Asaan Qarz LOAN</p>
+      {/* <p className='w-70% text-center'>Akhuwat LOAN</p> */}
+      <p className='w-70% text-center' style={{paddingTop:'26px'}}>Akhuwat LOAN</p>
       
       <h1 ><b>Our Services</b></h1>
         <h1><b>Do something now to start making tomorrow better.</b></h1>
